@@ -1,11 +1,31 @@
 {
   "name": "ai-monitoring",
   "version": "1.0.0",
-  "description": "Generate monitoring and alerting configuration",
+  "description": "AI-powered monitoring setup - APM and alerting configuration with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-monitoring": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["monitoring","alerting","observability","prometheus","grafana","ai","cli"],
+  "bin": {
+    "ai-monitoring": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "monitoring",
+    "observability",
+    "apm",
+    "sentry",
+    "datadog",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "alerting",
+    "metrics"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
