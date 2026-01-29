@@ -1,5 +1,10 @@
 # ai-monitoring
 
+[![npm version](https://img.shields.io/npm/v/ai-monitoring.svg)](https://www.npmjs.com/package/ai-monitoring)
+[![npm downloads](https://img.shields.io/npm/dm/ai-monitoring.svg)](https://www.npmjs.com/package/ai-monitoring)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate monitoring and alerting configuration
 
 ## Install
