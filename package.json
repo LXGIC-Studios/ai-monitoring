@@ -1,5 +1,5 @@
 {
-  "name": "ai-monitoring",
+  "name": "@lxgicstudios/ai-monitoring",
   "version": "1.0.0",
   "description": "AI-powered monitoring setup - APM and alerting configuration with GPT",
   "main": "dist/index.js",
