@@ -39,7 +39,9 @@
     "alerts",
     "grafana",
     "page-speed",
-    "crawlability"
+    "crawlability",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
