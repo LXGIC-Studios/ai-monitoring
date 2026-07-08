@@ -8,14 +8,14 @@
     "ai-monitoring": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-monitoring/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
-  "description": "AI-powered monitoring setup - APM and alerting configuration with GPT",
+  "description": "Generate monitoring and alerting configs for your stack. AI-powered Prometheus rules, Grafana dashboards, Datadog monitors, and PagerDuty alerts. Works with any observability stack.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
@@ -31,17 +31,31 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-monitoring",
+  "homepage": "https://github.com/LXGIC-Studios/ai-monitoring",
   "keywords": [
     "monitoring",
     "observability",
-    "metrics",
-    "alerts",
+    "prometheus",
     "grafana",
-    "page-speed",
-    "crawlability",
-    "seo-optimized",
-    "clawdbot"
+    "datadog",
+    "pagerduty",
+    "alerts",
+    "metrics",
+    "ai",
+    "automation",
+    "cli",
+    "developer-tools",
+    "npx",
+    "typescript",
+    "nodejs",
+    "openai",
+    "anthropic",
+    "claude",
+    "cursor",
+    "gpt",
+    "copilot",
+    "devtools",
+    "vibe-coding"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -52,8 +66,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-monitoring"
+    "url": "git+https://github.com/LXGIC-Studios/ai-monitoring.git"
   },
   "scripts": {
     "build": "tsc"
