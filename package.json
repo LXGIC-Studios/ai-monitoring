@@ -47,10 +47,7 @@
     "gpt",
     "grafana",
     "metrics",
-    "monitoring",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "monitoring"
   ],
   "license": "MIT",
   "main": "dist/index.js",
