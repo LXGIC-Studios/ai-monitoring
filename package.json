@@ -15,7 +15,7 @@
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
-  "description": "Generate monitoring and alerting configs for your stack. AI-powered Prometheus rules, Grafana dashboards, Datadog monitors, and PagerDuty alerts. Works with any observability stack.",
+  "description": "Generate monitoring and alerting configs. AI-powered Prometheus rules, Grafana dashboards, Datadog monitors, and PagerDuty alerts.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
